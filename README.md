@@ -2,6 +2,8 @@
 
 Exercise for MSCH-C220
 
+A demonstration of this exercise is available at [https://youtu.be/cko2j647EfM](https://youtu.be/cko2j647EfM)
+
 This exercise is an opportunity for you to experiment with an open source Godot Dialogue add-on called Dialogic. Dialogic has [been relatively recently released](https://dialogic.coppolaemilio.com/)—is it currently at release 1.4.1. It is still a little buggy around the edges, but it is a powerful system for creating and introducing dialogue systems into your games.
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-06c-Dialogue. *Edit the LICENSE and replace BL-MSCH-C220-S22 with your full name.* Commit your changes.
